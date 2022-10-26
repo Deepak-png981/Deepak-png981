@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-joshi-a15b21228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-joshi-a15b21228" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCCwyvbJ-RYrgH5no0gLGHdQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deepak joshi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@deepakjoshicsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deepakjoshicsc" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepakjoshicsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@deepakjoshicsc" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/deepakjoshicscoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/deepakjoshicscoder/" height="30" width="40" /></a>
 </p>
 
