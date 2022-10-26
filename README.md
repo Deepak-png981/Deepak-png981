@@ -1,4 +1,4 @@
-
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/18/72/73/1000_F_218727336_yFWOEXi4dqc01tCWSNZg2JSa0TPHtz4h.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm DEEPAK JOSHI</h1>
 <h3 align="center">A passionate Developer and a Competitive Programmer from India</h3>
 
