@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm DEEPAK JOSHI</h1>
-<h3 align="center">A passionate Developer and a Competitive Programmer from India</h3>
+<h3 align="center">Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-png981&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-png981" /> </p>
 
-- 🔭 I’m currently working on practicing DSA as much as I can [DSA](https://github.com/Deepak-png981/DSA_CODING_QUESTIONS)
+- 🔭 
 
-- 🌱 I’m currently learning **DSA , MERN**
+- 🌱 AI and Software Engineer
 
-- 💬 Ask me about **CP , MERN and Music**
+- 💬 Ask me about **CP , MERN stack, LangGraph, LangChain and Music**
 
 - 📫 How to reach me **deepakashujoshi@gmail.com**
 
