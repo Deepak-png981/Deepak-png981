@@ -41,17 +41,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak-png981&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-png981&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-png981&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⭐️ From [Deepak Joshi](https://github.com/deepak-png981)
