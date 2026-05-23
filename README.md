@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Joshi</h1>
-<h3 align="center">🚀 Engineer | AI & Software Enthusiast</h3>
+<h3 align="center">AI & Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepak-png981&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
