@@ -6,6 +6,4 @@
 - Interested in AI, LLMs, and Software Engineering
 - Building LLMs, AI agents and developer tools
 
-## Contact
-
 - Email: deepakashujoshi@gmail.com
