@@ -6,5 +6,8 @@
 - Interested in AI, LLMs, and Software Engineering
 - Creating SLMs, AI agents and developer tools
 
+## Open Source Contribution : 
+- https://github.com/google/sentencepiece/pull/1255
+
 ## Contact
 - Email: deepakashujoshi@gmail.com
